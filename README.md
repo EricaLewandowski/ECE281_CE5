@@ -11,5 +11,8 @@ add $s2 $s0 $s1 0 32
 sw $s3 0x54($0)
 
 
+#Part 2 MIPS Program
+
+![First Simulation](Part2Sim.PNG)
 
 
