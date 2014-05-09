@@ -13,6 +13,6 @@ sw $s3 0x54($0)
 
 #Part 2 MIPS Program
 
-![](Part2Sim.PNG)
+![](Part2Sim.JPG)
 
 
